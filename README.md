@@ -4,6 +4,6 @@ Hello guys. I am currently studying this book and I can't see any solutions on t
 
 ## Chapter 2:
 
-* [Problem 2.1](https://github.com/SudoCold/AI-Generated-Solutions-Of-Proofs-A-Long-Form-Mathematics-Textbook/blob/main/Exercise%202.1.pdf)
-* [Problem 2.2](https://github.com/SudoCold/AI-Generated-Solutions-Of-Proofs-A-Long-Form-Mathematics-Textbook/blob/main/Exercise%202.2.pdf)
-* [Problem 2.3](https://github.com/SudoCold/AI-Generated-Solutions-Of-Proofs-A-Long-Form-Mathematics-Textbook/blob/main/Exercise%202.3.pdf)
+* [Exercise 2.1](https://github.com/SudoCold/AI-Generated-Solutions-Of-Proofs-A-Long-Form-Mathematics-Textbook/blob/main/Exercise%202.1.pdf)
+* [Exercise 2.2](https://github.com/SudoCold/AI-Generated-Solutions-Of-Proofs-A-Long-Form-Mathematics-Textbook/blob/main/Exercise%202.2.pdf)
+* [Exercise 2.3](https://github.com/SudoCold/AI-Generated-Solutions-Of-Proofs-A-Long-Form-Mathematics-Textbook/blob/main/Exercise%202.3.pdf)
